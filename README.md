@@ -1,2 +1,3 @@
 # Highlights-from-AP-Comp-Sci
-A few programs created during AP Comp Sci
+
+Portfolio of programs created during AP Computer Science
