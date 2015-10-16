@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Program 122h
+(Function Tables)
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Program Description:  List the integers from 1 to 20, their squares, square roots, cubes, and fourth roots, all in a five column table. You need to align the table as shown for this problem.
+
+Required Statements:  output, loop control
