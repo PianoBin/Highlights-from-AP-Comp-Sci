@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Program  166e
+(decimal equivalents)
+Program Description:  Print a table of decimal equivalents of all proper fractions with denominators 2 through 14 inclusive with the numerator less than the denominator.  Round the decimal to 5 places.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Statements Required:   Properly formatted output, nested loop control using a For Loop and a Do-While Loop
