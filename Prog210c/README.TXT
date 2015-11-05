@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Program Description:  Write a program that simulates the guessing game “Higher/Lower”.  The computer will generate a number between 1 and 100 inclusive.  The user will be asked to guess the number.  If the guess is incorrect the program will give a clue of whether the guess was too high or too low and asks the user to guess again.  This procedure continues until the user finally guesses the correct number.  The program will also keep track of and print out the number of guess it took before the user guessed the correct number.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
